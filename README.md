@@ -93,10 +93,10 @@
 
 <h2 align="center">Team <strong>Error 404</strong></h2>
 <ul>
-    <li>Vaibhav Sharma</li>
-    <li>Harsh Kaushik</li>
-    <li>Samarpita Das</li>
-    <li>Ritika</li>
+    <li>App Dev : Vaibhav Sharma</li>
+    <li>UI/UX :Harsh Kaushik</li>
+    <li>ML Model : Samarpita Das</li>
+    <li>Database Management : Ritika</li>
 </ul>
 
 <p align="center">This project was developed during the <strong>HackStreet Hackathon 2024</strong>, where we earned the 2nd Runner-Up position.</p>
